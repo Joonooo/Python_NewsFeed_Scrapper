@@ -28,5 +28,3 @@ AWS 서버에서 crontab을 활용해 자동으로 갱신되도록 구현함
 [RSS](https://www.newswire.co.kr/?md=A31)
 
 [Application Link](https://news.joonoo.kr/)
-
-[Scrapper Repository](https://github.com/Joonooo/Python_NewsFeed_Scrapper)
